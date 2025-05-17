@@ -1,3 +1,7 @@
+; By kon
+; Taken from - https://github.com/ahkon/MS-Office-COM-Basics/blob/master/Examples/Excel/Excel_Get.ahk
+; Liscence - https://github.com/ahkon/MS-Office-COM-Basics/blob/master/LICENSE
+
 ﻿; Excel_Get by jethrow (modified)
 ; Forum:    https://autohotkey.com/boards/viewtopic.php?f=6&t=31840
 ; Github:   https://github.com/ahkon/MS-Office-COM-Basics/blob/master/Examples/Excel/Excel_Get.ahk
