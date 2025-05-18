@@ -1,3 +1,7 @@
+; By kon
+; Taken from - https://github.com/ahkon/MS-Office-COM-Basics/blob/master/Examples/Outlook/CalendarViewMode.ahk
+; License - https://github.com/ahkon/MS-Office-COM-Basics/blob/master/LICENSE
+
 ﻿; This script activates the calendar and changes the view to the month calendar.
 
 ; Constants

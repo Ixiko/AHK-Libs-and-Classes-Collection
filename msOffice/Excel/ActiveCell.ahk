@@ -1,3 +1,7 @@
+; By kon
+; Taken from - https://github.com/ahkon/MS-Office-COM-Basics/blob/master/Examples/Excel/ActiveCell.ahk
+; License - https://github.com/ahkon/MS-Office-COM-Basics/blob/master/LICENSE
+
 ﻿; This script demonstrates how to get a reference to the active cell in the active Excel application.
 
 xlApp := ComObjActive("Excel.Application")  ; Excel must be running.

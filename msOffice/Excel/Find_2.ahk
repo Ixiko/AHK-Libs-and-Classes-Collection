@@ -1,3 +1,7 @@
+; By kon
+; Taken from - https://github.com/ahkon/MS-Office-COM-Basics/blob/master/Examples/Excel/Find_2.ahk
+; License - https://github.com/ahkon/MS-Office-COM-Basics/blob/master/LICENSE
+
 ﻿; This script is a demonstration of the .Find method. It gets the value of the cell to the right of the active cell.
 ; Then it will find that value in the range "B:B" on Sheet2.
 

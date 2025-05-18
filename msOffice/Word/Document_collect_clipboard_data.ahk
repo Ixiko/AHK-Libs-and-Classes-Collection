@@ -1,3 +1,7 @@
+; By kon
+; Taken from - https://github.com/ahkon/MS-Office-COM-Basics/blob/master/Examples/Word/Document_collect_clipboard_data.ahk
+; License - https://github.com/ahkon/MS-Office-COM-Basics/blob/master/LICENSE
+
 ﻿; This script creates a new document to hold stuff from the clipboard.
 
 ; Usage

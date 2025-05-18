@@ -1,3 +1,7 @@
+; By kon
+; Taken from - https://github.com/ahkon/MS-Office-COM-Basics/blob/master/Examples/Outlook/COMAddIns.ahk
+; License - https://github.com/ahkon/MS-Office-COM-Basics/blob/master/LICENSE
+
 ﻿; **Probably needs to be run as admin**
 ; This script displays the Outlook addins. The user can choose to enable or disable the addins.
 

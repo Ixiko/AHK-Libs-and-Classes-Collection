@@ -1,3 +1,7 @@
+; By kon
+; Taken from - https://github.com/ahkon/MS-Office-COM-Basics/blob/master/Examples/Excel/Find.ahk
+; License - https://github.com/ahkon/MS-Office-COM-Basics/blob/master/LICENSE
+
 ﻿; This script will find all values in a range.
 ; The script looks in a workbook for the text "abc123".
 ; The range searched is the used range on sheet 1, columns A-Z.

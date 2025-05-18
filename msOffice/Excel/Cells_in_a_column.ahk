@@ -1,3 +1,7 @@
+; By kon
+; Taken from - https://github.com/ahkon/MS-Office-COM-Basics/blob/master/Examples/Excel/Cells_in_a_column.ahk
+; License - https://github.com/ahkon/MS-Office-COM-Basics/blob/master/LICENSE
+
 ﻿; This script will look for the last non-blank cell in column A. Then it loops through each cell in column A starting at
 ; cell A1 all the way to the last non-blank cell.
 

@@ -1,3 +1,7 @@
+; By kon
+; Taken from - https://github.com/ahkon/MS-Office-COM-Basics/blob/master/Examples/Word/Open_a_password_protected_document.ahk
+; License - https://github.com/ahkon/MS-Office-COM-Basics/blob/master/LICENSE
+
 ﻿; This script opens a Word document and prompts the user for a password if it is password protected.
 
 ; Try to open the Word document using this password. If the document is password protected this password should fail and

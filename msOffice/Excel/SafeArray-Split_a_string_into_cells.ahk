@@ -1,3 +1,7 @@
+; By kon
+; Taken from - https://github.com/ahkon/MS-Office-COM-Basics/blob/master/Examples/Excel/SafeArray-Split_a_string_into_cells.ahk
+; License - https://github.com/ahkon/MS-Office-COM-Basics/blob/master/LICENSE
+
 ﻿; This script creates a SafeArray from the example string. Linefeeds ("`n") are used to split the string into rows, and
 ; commas (",") are used to split each row into cells. The safearray is then put into a new Excel workbook starting at
 ; cell C2.

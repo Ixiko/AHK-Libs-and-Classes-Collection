@@ -1,3 +1,7 @@
+; By kon
+; Taken from - https://github.com/ahkon/MS-Office-COM-Basics/blob/master/Examples/Office_2010_Constants_(class).ahk
+; License - https://github.com/ahkon/MS-Office-COM-Basics/blob/master/LICENSE
+
 ﻿; Made with OfficeInfo - https://autohotkey.com/boards/viewtopic.php?f=6&p=113884
 class OfficeConstants
 {

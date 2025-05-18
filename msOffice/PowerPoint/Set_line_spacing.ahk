@@ -1,3 +1,7 @@
+; By kon
+; Taken from - https://github.com/ahkon/MS-Office-COM-Basics/blob/master/Examples/PowerPoint/Set_line_spacing.ahk
+; License - https://github.com/ahkon/MS-Office-COM-Basics/blob/master/LICENSE
+
 ﻿; This script changes the line spacing of selected text.
 
 #IfWinActive ahk_class PPTFrameClass

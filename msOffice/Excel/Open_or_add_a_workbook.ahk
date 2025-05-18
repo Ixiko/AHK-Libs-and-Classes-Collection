@@ -1,3 +1,7 @@
+; By kon
+; Taken from - https://github.com/ahkon/MS-Office-COM-Basics/blob/master/Examples/Excel/Open_or_add_a_workbook.ahk
+; License - https://github.com/ahkon/MS-Office-COM-Basics/blob/master/LICENSE
+
 ﻿; Usage:
 ; F11 hotkey        - Open a workbook in the active instance of Excel.
 ; F12 hotkey        - Open a workbook in a new instance of Excel.

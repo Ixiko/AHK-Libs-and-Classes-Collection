@@ -1,3 +1,7 @@
+; By kon
+; Taken from - https://github.com/ahkon/MS-Office-COM-Basics/blob/master/Examples/Outlook/HTMLBody.ahk
+; License - https://github.com/ahkon/MS-Office-COM-Basics/blob/master/LICENSE
+
 ﻿; This script creates an email, adds "test.png" as an attachment, then includes the image in the body of the email.
 
 Image := A_ScriptDir "\test.png"  ; The path of the image to include.

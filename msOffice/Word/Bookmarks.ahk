@@ -1,3 +1,7 @@
+; By kon
+; Taken from - https://github.com/ahkon/MS-Office-COM-Basics/blob/master/Examples/Word/Bookmarks.ahk
+; License - https://github.com/ahkon/MS-Office-COM-Basics/blob/master/LICENSE
+
 ﻿; This script creates a new word documennt from a template. Then it inserts text into two bookmarks.
 ; The template (Bookmarks.dotx) has two bookmarks named "MyBookmark1" and "MyBookmark2".
 

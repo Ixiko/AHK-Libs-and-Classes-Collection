@@ -1,3 +1,7 @@
+; By kon
+; Taken from - https://github.com/ahkon/MS-Office-COM-Basics/blob/master/Examples/Excel/Save%20sheets%20as%20new%20workbooks.ahk
+; License - https://github.com/ahkon/MS-Office-COM-Basics/blob/master/LICENSE
+
 ﻿; This script prompts the user to select a workbook file. Then each sheet in the selected workbook is copied into a
 ; new workbook. Each new workbook is then saved to the same dir as the original file.
 

@@ -1,3 +1,7 @@
+; By kon
+; Taken from - https://github.com/ahkon/MS-Office-COM-Basics/blob/master/Examples/Excel/IsInEditMode.ahk
+; License - https://github.com/ahkon/MS-Office-COM-Basics/blob/master/LICENSE
+
 ﻿; This script tests if Excel is in edit mode. Many actions are forbidden while Excel is in edit-mode. They will generate
 ; warning messages instead of performing the requested action.
 

@@ -1,3 +1,7 @@
+; By kon
+; Taken from - https://github.com/ahkon/MS-Office-COM-Basics/blob/master/Examples/Excel/Worksheets-Activate_next_or_previous.ahk
+; License - https://github.com/ahkon/MS-Office-COM-Basics/blob/master/LICENSE
+
 ﻿; F8 hotkey to activate the next sheet.
 F8::
     ; Get a reference to the active workbook. One (and only one) instance of Excel must be running.

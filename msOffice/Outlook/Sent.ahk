@@ -1,3 +1,7 @@
+; By kon
+; Taken from - https://github.com/ahkon/MS-Office-COM-Basics/blob/master/Examples/Outlook/Sent.ahk
+; License - https://github.com/ahkon/MS-Office-COM-Basics/blob/master/LICENSE
+
 ﻿; This script determines if an email is displayed in "Read" or "Edit" mode. That is to say, if a new email is being
 ; composed then the user can edit the text within the Inspector window. By contrast, if the user has sent the email or
 ; if the user is the recipient of the email, then the text within the Inspector window is read-only.

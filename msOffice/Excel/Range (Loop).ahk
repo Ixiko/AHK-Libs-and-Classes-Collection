@@ -1,3 +1,7 @@
+; By kon
+; Taken from - https://github.com/ahkon/MS-Office-COM-Basics/blob/master/Examples/Excel/Range%20(Loop).ahk
+; License - https://github.com/ahkon/MS-Office-COM-Basics/blob/master/LICENSE
+
 ﻿; This script gets/saves a reference to a Range object ('MyRange'). Then it loops through each item in the Range. Each
 ; item in the range is a Cell. Each cell is actually a Range object. ie: A range can contain several cells, or only one.
 

@@ -1,3 +1,7 @@
+; By kon
+; Taken from - https://github.com/ahkon/MS-Office-COM-Basics/blob/master/Examples/Excel/Active_row-Get_a_cell_in_a_specific_column.ahk
+; License - https://github.com/ahkon/MS-Office-COM-Basics/blob/master/LICENSE
+
 ﻿; This script will display the value of the cell in column 'D' of the active row.
 
 ; Excel hotkeys

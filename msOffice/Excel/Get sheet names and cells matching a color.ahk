@@ -1,3 +1,7 @@
+; By kon
+; Taken from - https://github.com/ahkon/MS-Office-COM-Basics/blob/master/Examples/Excel/Get%20sheet%20names%20and%20cells%20matching%20a%20color.ahk
+; License - https://github.com/ahkon/MS-Office-COM-Basics/blob/master/LICENSE
+
 ﻿; This script does the following:
 ;   - Open the test workbook (located in the same directory as this script -
 ;     "..\Get sheet names and cells matching a color DATA.xlsx")
